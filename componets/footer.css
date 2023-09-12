@@ -1,0 +1,16 @@
+.footer {
+    background-color: #2C3E50;
+    color: #ffffff;
+    height: 35vh;
+    padding-top: 40px;
+    text-align: center;
+}
+.footer .w-50 {
+    margin-left: 70px;
+}
+
+.copyright {
+    background-color: #1A252F;
+    padding-top: 30px;
+    height: 80px;
+}

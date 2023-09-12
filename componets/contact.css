@@ -1,0 +1,15 @@
+.ch2 {
+    color: gold;
+}
+.con {
+    background-color: rgba(0, 139, 139, 0.603);
+    color: white;
+    height: 35vh;
+}
+.con h3 {
+
+ font-weight: 100;
+ padding: 30px 50px;
+ margin-left: 100px;  
+}
+

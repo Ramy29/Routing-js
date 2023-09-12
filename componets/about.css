@@ -1,0 +1,38 @@
+.a1 {
+    width: 600px;
+    height: 40vh;
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.c1 {
+    background-color: cadetblue;
+    width: 800px;
+    height: 40vh;
+    padding-top: 100px;
+    font-size: xx-large;
+    font-weight: 900;
+    
+}
+.c2 {
+    background-color: darkgrey;
+    width: 120px;
+    height: 40vh;
+    padding-top: 100px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.c3 {
+    background-color: darkblue;
+    width: 120px;
+    height: 40vh;
+    padding-top: 100px;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+.cc{
+    background-color: rgba(244, 165, 96, 0.233);
+}
+span {
+    color: crimson;
+}

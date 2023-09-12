@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    color: brown;
+}
+ .port {
+    height: 40vh;
+    background-color: rgb(220, 227, 245);
+    width: 50%;
+    margin-left: 350px;
+    color: crimson;
+    text-align: center;
+}
+.port p {
+    padding-top: 50px;
+    color: crimson;
+}
